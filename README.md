@@ -24,7 +24,7 @@ I want the program to return the number I passed
 
 ## Console snippet
 
-![screen shot 2018-06-13 at 14 48 18](https://user-images.githubusercontent.com/33669463/41355784-358b86ea-6f1a-11e8-9372-dd923ac0be7c.png)
+![screen shot 2018-06-13 at 15 12 04](https://user-images.githubusercontent.com/33669463/41356851-a4db9c36-6f1c-11e8-8e54-dbf1b3f2e648.png)
 
 
 
@@ -32,4 +32,5 @@ I want the program to return the number I passed
 ## Testing
 To run the tests clone this repository and open SpecRunner.html
 
-![screen shot 2018-06-13 at 14 48 02](https://user-images.githubusercontent.com/33669463/41355778-334e09d4-6f1a-11e8-8c8e-5532992736fb.png)
+![screen shot 2018-06-13 at 15 11 48](https://user-images.githubusercontent.com/33669463/41356846-a2fd0e72-6f1c-11e8-8c2b-1f0df7dc39ec.png)
+
