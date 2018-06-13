@@ -3,6 +3,10 @@ var FizzbuzzJS = function(){};
 FizzbuzzJS.prototype.isDivisibleBy = function(number, divisor){
   return (number % divisor === 0);
 };
+
+FizzbuzzJS.prototype.isDivisibleByFifteen = function(number){
+  return this.isDivisibleBy(number, 15);
+}
 FizzbuzzJS.prototype.isDivisibleByThree = function(number){
   return this.isDivisibleBy(number, 3);
 };

@@ -15,4 +15,9 @@ describe('FizzbuzzJS', function(){
       expect(fizzbuzzJS.isDivisibleByFive(5)).toBe (true)
     })
   })
+  describe('multiples of 15', function(){
+    it('knows when a number is divisible by 3 and 5', function(){
+      expect(fizzbuzzJS.isDivisibleByFifteen(15)).toBe (true)
+    })
+  })
 });
