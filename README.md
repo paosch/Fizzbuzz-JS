@@ -17,9 +17,16 @@ I want the program to say 'fizzbuzz'
 ```
 
 
-### Console snippet
+
+
+## Console snippet
+
+![screen shot 2018-06-13 at 14 48 18](https://user-images.githubusercontent.com/33669463/41355784-358b86ea-6f1a-11e8-9372-dd923ac0be7c.png)
 
 
 
-### Testing
+
+## Testing
 To run the tests clone this repository and open SpecRunner.html
+
+![screen shot 2018-06-13 at 14 48 02](https://user-images.githubusercontent.com/33669463/41355778-334e09d4-6f1a-11e8-8c8e-5532992736fb.png)
