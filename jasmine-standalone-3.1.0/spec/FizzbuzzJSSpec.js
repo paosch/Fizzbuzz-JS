@@ -20,4 +20,9 @@ describe('FizzbuzzJS', function(){
       expect(fizzbuzzJS.isDivisibleByFifteen(15)).toBe (true)
     })
   })
+  describe("when we play with the program, it says ", function(){
+    it("'fizzbuzz' for multiples of 15", function(){
+      expect(fizzbuzzJS.says(30)).toEqual ('fizzbuzz')
+    })
+  })
 });
