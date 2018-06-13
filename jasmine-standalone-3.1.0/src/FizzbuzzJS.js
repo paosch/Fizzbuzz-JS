@@ -22,4 +22,7 @@ FizzbuzzJS.prototype.says = function(number){
   if(this.isDivisibleByThree(number)){
     return 'fizz';
   }
+  if(this.isDivisibleByFive(number)){
+    return 'buzz';
+  }
 };

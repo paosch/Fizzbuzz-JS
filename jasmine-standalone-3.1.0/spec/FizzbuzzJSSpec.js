@@ -27,5 +27,8 @@ describe('FizzbuzzJS', function(){
     it("'fizz' for multiples of 3", function(){
       expect(fizzbuzzJS.says(3)).toEqual ('fizz')
     })
+    it("'buzz' for multiples of 5", function(){
+      expect(fizzbuzzJS.says(10)).toEqual ('buzz')
+    })
   })
 });
