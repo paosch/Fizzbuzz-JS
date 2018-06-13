@@ -20,7 +20,7 @@ describe('FizzbuzzJS', function(){
       expect(fizzbuzzJS.isDivisibleByFifteen(15)).toBe (true)
     })
   })
-  describe("when we play, it says ", function(){
+  describe("when we play, it returns ", function(){
     it("'fizzbuzz' for multiples of 15", function(){
       expect(fizzbuzzJS.says(30)).toEqual ('fizzbuzz')
     })
@@ -29,6 +29,9 @@ describe('FizzbuzzJS', function(){
     })
     it("'buzz' for multiples of 5", function(){
       expect(fizzbuzzJS.says(10)).toEqual ('buzz')
+    })
+    it('the number I passed, when it is not divisible by 3, 5 or 15', function(){
+      expect(fizzbuzzJS.says(28)).toBe (28)
     })
   })
 });

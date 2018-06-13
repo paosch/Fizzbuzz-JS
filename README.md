@@ -14,6 +14,9 @@ I want the program to say 'buzz'
 
 When I pass a number that is both divisible by 3 and 5,
 I want the program to say 'fizzbuzz'
+
+When I pass a number that is none of the above,
+I want the program to return the number I passed
 ```
 
 
